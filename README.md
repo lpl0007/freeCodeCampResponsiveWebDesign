@@ -42,4 +42,4 @@ freeCodeCampResponsiveWebDesign/
 
 ## Notes
 
-The individual project repositories are preserved separately. This repository serves as a consolidated portfolio view of the coursework and does not replace the original repositories.
+The individual project repositories were consolidated into this repository. This repository now serves as the primary portfolio copy of the coursework, with each project organized by curriculum section.

@@ -13,20 +13,20 @@ Projects are organized by the curriculum section they belong to. Each project re
 freeCodeCampResponsiveWebDesign/
 ├── README.md
 ├── Basic HTML/
-│   ├── freeCodeCampResponsiveWebDesign-BuildACurriculumOutline/index.html
-│   ├── freeCodeCampResponsiveWebDesign-BuildACatPhotoApp/index.html
-│   ├── freeCodeCampResponsiveWebDesign-BuildABookstorePage/index.html
-│   ├── freeCodeCampResponsiveWebDesign-BuildARecipePage/index.html
-│   ├── freeCodeCampResponsiveWebDesign-BuildATravelAgencyPage/index.html
-│   ├── freeCodeCampResponsiveWebDesign-BuildAnHTMLMusicPlayer/index.html
-│   ├── freeCodeCampResponsiveWebDesign-BuildAnHTMLVideoPlayer/index.html
-│   ├── freeCodeCampResponsiveWebDesign-BuildAnHTMLAudioAndVideoPlayer/index.html
-│   ├── freeCodeCampResponsiveWebDesign-BuildAHeartIcon/index.html
-│   ├── freeCodeCampResponsiveWebDesign-BuildAVideoDisplayUsingIframe/index.html
-│   └── freeCodeCampResponsiveWebDesign-BuildAVideoCompilationPage/index.html
+│   ├── BuildACurriculumOutline/
+│   ├── BuildACatPhotoApp/
+│   ├── BuildABookstorePage/
+│   ├── BuildARecipePage/
+│   ├── BuildATravelAgencyPage/
+│   ├── BuildAnHTMLMusicPlayer/
+│   ├── BuildAnHTMLVideoPlayer/
+│   ├── BuildAnHTMLAudioAndVideoPlayer/
+│   ├── BuildAHeartIcon/
+│   ├── BuildAVideoDisplayUsingIframe/
+│   └── BuildAVideoCompilationPage/
 └── Semantic HTML/
-    ├── freeCodeCampResponsiveWebDesign-BuildAListOfMajorWebBrowsers/index.html
-    └── freeCodeCampResponsiveWebDesign-BuildQuincysJobTipsPage/index.html
+    ├── BuildAListOfMajorWebBrowsers/
+    └── BuildQuincysJobTipsPage/
 ```
 
 The original individual repositories are preserved separately; this repository is the consolidated portfolio view.

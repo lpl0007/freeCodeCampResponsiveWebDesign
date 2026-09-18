@@ -8,8 +8,9 @@ This repository brings the individual Responsive Web Design projects from my fre
 
 ## Structure
 
-- **Basic HTML** — HTML structure, links, media, SVG, iframes, and related fundamentals
-- **Semantic HTML** — semantic elements, quotations, citations, and definition lists
+- **HTML**
+  - **Basic HTML** — HTML structure, links, media, SVG, and embedded content
+  - **Semantic HTML** — semantic elements and structured page content
 
 ## Technologies
 
@@ -23,3 +24,5 @@ This repository brings the individual Responsive Web Design projects from my fre
 ## Notes
 
 The individual project repositories were consolidated into this repository. This repository now serves as the primary portfolio copy of the coursework, with each project organized by curriculum section.
+
+The certification is currently in progress, so additional curriculum sections and projects will be added as I complete them.

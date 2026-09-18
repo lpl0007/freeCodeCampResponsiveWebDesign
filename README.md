@@ -1,12 +1,14 @@
 # freeCodeCamp Responsive Web Design
 
-A consolidated collection of projects completed while working through the freeCodeCamp Responsive Web Design curriculum.
+A consolidated collection of projects completed while working through the [freeCodeCamp Responsive Web Design curriculum](https://www.freecodecamp.org/learn/2022/responsive-web-design/).
+
+## Overview
+
+This repository brings the individual Responsive Web Design projects from my freeCodeCamp coursework into one organized portfolio. Each project remains in its own folder, while the folders are grouped by curriculum section.
 
 ## Structure
 
-Projects are organized by the curriculum section they belong to. Each project remains in its own folder so the original project boundaries are preserved.
-
-- **Basic HTML** — HTML structure, media, SVG, iframes, and links
+- **Basic HTML** — HTML structure, links, media, SVG, iframes, and related fundamentals
 - **Semantic HTML** — semantic elements, quotations, citations, and definition lists
 
 ```
@@ -29,4 +31,15 @@ freeCodeCampResponsiveWebDesign/
     └── BuildQuincysJobTipsPage/
 ```
 
-The original individual repositories are preserved separately; this repository is the consolidated portfolio view.
+## Technologies
+
+- HTML5
+- Semantic HTML
+- SVG
+- Embedded media
+- Iframes
+- Git & GitHub
+
+## Notes
+
+The individual project repositories are preserved separately. This repository serves as a consolidated portfolio view of the coursework and does not replace the original repositories.

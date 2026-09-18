@@ -1,6 +1,6 @@
 # freeCodeCamp Responsive Web Design
 
-A consolidated collection of projects completed while working through the [freeCodeCamp Responsive Web Design curriculum](https://www.freecodecamp.org/learn/2022/responsive-web-design/).
+A consolidated collection of projects completed while working through the [freeCodeCamp Responsive Web Design curriculum](https://www.freecodecamp.org/learn/responsive-web-design-v9/).
 
 ## Overview
 

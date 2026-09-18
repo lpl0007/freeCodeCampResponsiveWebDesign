@@ -11,26 +11,6 @@ This repository brings the individual Responsive Web Design projects from my fre
 - **Basic HTML** — HTML structure, links, media, SVG, iframes, and related fundamentals
 - **Semantic HTML** — semantic elements, quotations, citations, and definition lists
 
-```
-freeCodeCampResponsiveWebDesign/
-├── README.md
-├── Basic HTML/
-│   ├── BuildACurriculumOutline/
-│   ├── BuildACatPhotoApp/
-│   ├── BuildABookstorePage/
-│   ├── BuildARecipePage/
-│   ├── BuildATravelAgencyPage/
-│   ├── BuildAnHTMLMusicPlayer/
-│   ├── BuildAnHTMLVideoPlayer/
-│   ├── BuildAnHTMLAudioAndVideoPlayer/
-│   ├── BuildAHeartIcon/
-│   ├── BuildAVideoDisplayUsingIframe/
-│   └── BuildAVideoCompilationPage/
-└── Semantic HTML/
-    ├── BuildAListOfMajorWebBrowsers/
-    └── BuildQuincysJobTipsPage/
-```
-
 ## Technologies
 
 - HTML5

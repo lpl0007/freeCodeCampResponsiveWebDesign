@@ -20,3 +20,11 @@ button:hover {
   background-color: lightgray;
   box-shadow: 0 5px 15px black;
 }
+
+.radio-group input[type="radio"]:checked + label {
+  color: purple;
+}
+
+input:first-of-type {
+  border-radius: 10px;
+}

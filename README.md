@@ -8,21 +8,41 @@ This repository brings the individual Responsive Web Design projects from my fre
 
 ## Structure
 
-- **HTML**
-  - **Basic HTML** — HTML structure, links, media, SVG, and embedded content
-  - **Semantic HTML** — semantic elements and structured page content
+### HTML
+
+- **Basic HTML** — HTML structure, links, media, SVG, and embedded content
+- **Semantic HTML** — semantic elements and structured page content
+- **Forms and Tables** — forms, tables, labels, inputs, and structured data
+- **Accessibility** — accessible forms, multimedia, tables, and page structure
+
+### CSS
+
+- **Basic CSS** — selectors, properties, colors, typography, and basic styling
+- **Colors** — color values, gradients, and color styling
+- **The Box Model** — margins, padding, borders, sizing, and box-model layout
+- **Pseudo Classes and Elements** — pseudo-classes, pseudo-elements, and interactive styling
+- **Styling Forms** — form controls, inputs, buttons, and custom form styling
+- **Flexbox** — flexible layouts, alignment, spacing, and responsive arrangements
+- **Absolute and Relative Units** — relative sizing, absolute units, and responsive dimensions
 
 ## Technologies
 
 - HTML5
+- CSS3
 - Semantic HTML
 - SVG
+- Flexbox
+- Responsive design
 - Embedded media
 - Iframes
 - Git & GitHub
 
+## Progress
+
+The Responsive Web Design certification is currently in progress. HTML coursework has been completed through Accessibility, and CSS coursework is now underway.
+
+Additional sections and projects will be added as I continue through the curriculum.
+
 ## Notes
 
 The individual project repositories were consolidated into this repository. This repository now serves as the primary portfolio copy of the coursework, with each project organized by curriculum section.
-
-The certification is currently in progress, so additional curriculum sections and projects will be added as I complete them.

@@ -14,6 +14,7 @@ This repository brings the individual Responsive Web Design projects from my fre
 - **Semantic HTML** — semantic elements and structured page content
 - **Forms and Tables** — forms, tables, labels, inputs, and structured data
 - **Accessibility** — accessible forms, multimedia, tables, and page structure
+- **Build a Survey Form** — a complete form project combining HTML structure, labels, inputs, and accessibility
 
 ### CSS
 
@@ -24,6 +25,15 @@ This repository brings the individual Responsive Web Design projects from my fre
 - **Styling Forms** — form controls, inputs, buttons, and custom form styling
 - **Flexbox** — flexible layouts, alignment, spacing, and responsive arrangements
 - **Absolute and Relative Units** — relative sizing, absolute units, and responsive dimensions
+- **Accessibility** — accessible page structure and styling
+- **Attribute Selectors** — attribute-based CSS selectors and targeted styling
+- **Positioning** — positioning elements and controlling their placement
+- **Responsive Design** — responsive layouts and adapting pages to different screen sizes
+- **Typography** — fonts, text styling, and typographic layout
+- **Variables** — CSS custom properties and reusable styling values
+- **Build a Book Inventory** — a complete project applying CSS styling techniques
+- **Build a Page of Playing Cards** — a complete project applying layout and positioning techniques
+- **Build a Technical Documentation** — a complete project applying CSS layout and styling techniques
 
 ## Technologies
 
@@ -33,13 +43,14 @@ This repository brings the individual Responsive Web Design projects from my fre
 - SVG
 - Flexbox
 - Responsive design
+- CSS custom properties
 - Embedded media
 - Iframes
 - Git & GitHub
 
 ## Progress
 
-The HTML portion of the Responsive Web Design certification is complete. CSS is the remaining portion of the curriculum.
+The HTML portion of the Responsive Web Design certification is complete. CSS is currently in progress, with projects spanning foundational styling, layouts, accessibility, responsive design, typography, and CSS variables.
 
 Additional CSS sections and projects will be added as I continue through the curriculum.
 

@@ -1,0 +1,11 @@
+#nav-bar {
+  position: fixed;
+  top: 0;
+  display: flex;
+}
+
+@media (max-width: 600px) {
+  #nav-bar {
+    margin-top: 5px;
+  }
+}

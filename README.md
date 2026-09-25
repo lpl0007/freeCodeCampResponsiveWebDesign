@@ -19,21 +19,21 @@ This repository brings the individual Responsive Web Design projects from my fre
 ### CSS
 
 - **Basic CSS** — selectors, properties, colors, typography, and basic styling
-- **Colors** — color values, gradients, and color styling
-- **The Box Model** — margins, padding, borders, sizing, and box-model layout
-- **Styling Forms** — form controls, inputs, buttons, and custom form styling
-- **Pseudo Classes and Elements** — pseudo-classes, pseudo-elements, and interactive styling
-- **Flexbox** — flexible layouts, alignment, spacing, and responsive arrangements
 - **Absolute and Relative Units** — relative sizing, absolute units, and responsive dimensions
-- **Positioning** — positioning elements and controlling their placement
-- **Attribute Selectors** — attribute-based CSS selectors and targeted styling
-- **Variables** — CSS custom properties and reusable styling values
+- **Pseudo Classes and Elements** — pseudo-classes, pseudo-elements, and interactive styling
+- **Colors** — color values, gradients, and color styling
+- **Styling Forms** — form controls, inputs, buttons, and custom form styling
+- **The Box Model** — margins, padding, borders, sizing, and box-model layout
+- **Flexbox** — flexible layouts, alignment, spacing, and responsive arrangements
+- **Build a Page of Playing Cards** — a complete project applying layout and positioning techniques
 - **Typography** — fonts, text styling, and typographic layout
 - **Accessibility** — accessible page structure and styling
-- **Responsive Design** — responsive layouts and adapting pages to different screen sizes
+- **Positioning** — positioning elements and controlling their placement
+- **Attribute Selectors** — attribute-based CSS selectors and targeted styling
 - **Build a Book Inventory** — a complete project applying CSS styling techniques
-- **Build a Page of Playing Cards** — a complete project applying layout and positioning techniques
+- **Responsive Design** — responsive layouts and adapting pages to different screen sizes
 - **Build a Technical Documentation** — a complete project applying CSS layout and styling techniques
+- **Variables** — CSS custom properties and reusable styling values
 
 ## Technologies
 

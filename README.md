@@ -13,8 +13,8 @@ This repository brings the individual Responsive Web Design projects from my fre
 - **Basic HTML** — HTML structure, links, media, SVG, and embedded content
 - **Semantic HTML** — semantic elements and structured page content
 - **Forms and Tables** — forms, tables, labels, inputs, and structured data
-- **Accessibility** — accessible forms, multimedia, tables, and page structure
 - **Build a Survey Form** — a complete form project combining HTML structure, labels, inputs, and accessibility
+- **Accessibility** — accessible forms, multimedia, tables, and page structure
 
 ### CSS
 

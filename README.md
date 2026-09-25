@@ -21,16 +21,16 @@ This repository brings the individual Responsive Web Design projects from my fre
 - **Basic CSS** — selectors, properties, colors, typography, and basic styling
 - **Colors** — color values, gradients, and color styling
 - **The Box Model** — margins, padding, borders, sizing, and box-model layout
-- **Pseudo Classes and Elements** — pseudo-classes, pseudo-elements, and interactive styling
 - **Styling Forms** — form controls, inputs, buttons, and custom form styling
+- **Pseudo Classes and Elements** — pseudo-classes, pseudo-elements, and interactive styling
 - **Flexbox** — flexible layouts, alignment, spacing, and responsive arrangements
 - **Absolute and Relative Units** — relative sizing, absolute units, and responsive dimensions
-- **Accessibility** — accessible page structure and styling
-- **Attribute Selectors** — attribute-based CSS selectors and targeted styling
 - **Positioning** — positioning elements and controlling their placement
-- **Responsive Design** — responsive layouts and adapting pages to different screen sizes
-- **Typography** — fonts, text styling, and typographic layout
+- **Attribute Selectors** — attribute-based CSS selectors and targeted styling
 - **Variables** — CSS custom properties and reusable styling values
+- **Typography** — fonts, text styling, and typographic layout
+- **Accessibility** — accessible page structure and styling
+- **Responsive Design** — responsive layouts and adapting pages to different screen sizes
 - **Build a Book Inventory** — a complete project applying CSS styling techniques
 - **Build a Page of Playing Cards** — a complete project applying layout and positioning techniques
 - **Build a Technical Documentation** — a complete project applying CSS layout and styling techniques

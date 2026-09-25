@@ -50,9 +50,7 @@ This repository brings the individual Responsive Web Design projects from my fre
 
 ## Progress
 
-The HTML portion of the Responsive Web Design certification is complete. CSS is currently in progress, with projects spanning foundational styling, layouts, accessibility, responsive design, typography, and CSS variables.
-
-Additional CSS sections and projects will be added as I continue through the curriculum.
+The Responsive Web Design certification is complete, including the theoretical lessons and all required coursework. This repository focuses on the project-based work completed throughout the certification.
 
 ## Notes
 

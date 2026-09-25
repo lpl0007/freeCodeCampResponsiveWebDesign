@@ -19,6 +19,7 @@ This repository brings the individual Responsive Web Design projects from my fre
 ### CSS
 
 - **Basic CSS** — selectors, properties, colors, typography, and basic styling
+- **Design for Developers** — user interface design fundamentals, user-centered design, and common design tools
 - **Absolute and Relative Units** — relative sizing, absolute units, and responsive dimensions
 - **Pseudo Classes and Elements** — pseudo-classes, pseudo-elements, and interactive styling
 - **Colors** — color values, gradients, and color styling
@@ -34,6 +35,8 @@ This repository brings the individual Responsive Web Design projects from my fre
 - **Responsive Design** — responsive layouts and adapting pages to different screen sizes
 - **Build a Technical Documentation** — a complete project applying CSS layout and styling techniques
 - **Variables** — CSS custom properties and reusable styling values
+- **CSS Grid** — grid layouts, rows, columns, and responsive page structure
+- **CSS Animations** — animations, accessibility considerations, and animated page elements
 
 ## Technologies
 

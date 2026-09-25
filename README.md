@@ -1,60 +1,73 @@
 # freeCodeCamp Responsive Web Design
 
-A consolidated collection of projects completed while working through the [freeCodeCamp Responsive Web Design curriculum](https://www.freecodecamp.org/learn/responsive-web-design-v9/).
+A consolidated collection of projects completed for the [freeCodeCamp Responsive Web Design v9 certification](https://www.freecodecamp.org/learn/responsive-web-design-v9/).
+
+**Certification:** [Responsive Web Design v9](https://www.freecodecamp.org/certification/lpl0007/responsive-web-design-v9)
 
 ## Overview
 
-This repository brings the individual Responsive Web Design projects from my freeCodeCamp coursework into one organized portfolio. Each project remains in its own folder, while the folders are grouped by curriculum section.
+This repository contains the project-based coursework completed throughout the Responsive Web Design certification. Projects are organized by HTML and CSS curriculum sections, with each project kept in its own folder.
 
-## Structure
+The certification is complete, including the theoretical lessons and required coursework.
+
+## Projects
 
 ### HTML
 
-- **Basic HTML** — HTML structure, links, media, SVG, and embedded content
-- **Semantic HTML** — semantic elements and structured page content
-- **Forms and Tables** — forms, tables, labels, inputs, and structured data
-- **Build a Survey Form** — a complete form project combining HTML structure, labels, inputs, and accessibility
-- **Accessibility** — accessible forms, multimedia, tables, and page structure
+| Section | Projects |
+| --- | --- |
+| **Basic HTML** | 11 |
+| **Semantic HTML** | 4 |
+| **Forms and Tables** | 3 |
+| **Accessibility** | 5 |
+| **Build a Survey Form** | 1 |
 
 ### CSS
 
-- **Basic CSS** — selectors, properties, colors, typography, and basic styling
-- **Design for Developers** — user interface design fundamentals, user-centered design, and common design tools
-- **Absolute and Relative Units** — relative sizing, absolute units, and responsive dimensions
-- **Pseudo Classes and Elements** — pseudo-classes, pseudo-elements, and interactive styling
-- **Colors** — color values, gradients, and color styling
-- **Styling Forms** — form controls, inputs, buttons, and custom form styling
-- **The Box Model** — margins, padding, borders, sizing, and box-model layout
-- **Flexbox** — flexible layouts, alignment, spacing, and responsive arrangements
-- **Build a Page of Playing Cards** — a complete project applying layout and positioning techniques
-- **Typography** — fonts, text styling, and typographic layout
-- **Accessibility** — accessible page structure and styling
-- **Positioning** — positioning elements and controlling their placement
-- **Attribute Selectors** — attribute-based CSS selectors and targeted styling
-- **Build a Book Inventory** — a complete project applying CSS styling techniques
-- **Responsive Design** — responsive layouts and adapting pages to different screen sizes
-- **Build a Technical Documentation** — a complete project applying CSS layout and styling techniques
-- **Variables** — CSS custom properties and reusable styling values
-- **CSS Grid** — grid layouts, rows, columns, and responsive page structure
-- **CSS Animations** — animations, accessibility considerations, and animated page elements
+| Section | Projects |
+| --- | --- |
+| **Basic CSS** | 4 |
+| **Absolute and Relative Units** | 1 |
+| **Pseudo Classes and Elements** | 3 |
+| **Colors** | 2 |
+| **Styling Forms** | 4 |
+| **The Box Model** | 2 |
+| **Flexbox** | 3 |
+| **Typography** | 2 |
+| **Accessibility** | 2 |
+| **Positioning** | 2 |
+| **Attribute Selectors** | 1 |
+| **Responsive Design** | 1 |
+| **Variables** | 2 |
+| **Grid** | 2 |
+| **Animations** | 4 |
+| **Build a Book Inventory** | 1 |
+| **Build a Page of Playing Cards** | 1 |
+| **Build a Product Landing Page** | 1 |
+| **Build a Technical Documentation** | 1 |
+
+**Total:** 63 projects
+
+## Skills Demonstrated
+
+- HTML5 and semantic HTML
+- CSS3
+- Responsive web design
+- Flexbox
+- CSS Grid
+- CSS custom properties
+- Accessibility
+- Forms and tables
+- Typography and visual styling
+- CSS animations
+- SVG and embedded media
+- Iframes
+- Git and GitHub
 
 ## Technologies
 
-- HTML5
-- CSS3
-- Semantic HTML
-- SVG
-- Flexbox
-- Responsive design
-- CSS custom properties
-- Embedded media
-- Iframes
-- Git & GitHub
+HTML5 · CSS3 · SVG · Flexbox · CSS Grid · Responsive Design · Git · GitHub
 
-## Progress
+## Repository Status
 
-The Responsive Web Design certification is complete, including the theoretical lessons and all required coursework. This repository focuses on the project-based work completed throughout the certification.
-
-## Notes
-
-The individual project repositories were consolidated into this repository. This repository now serves as the primary portfolio copy of the coursework, with each project organized by curriculum section.
+This repository represents completed coursework from the freeCodeCamp Responsive Web Design v9 certification and is maintained as a portfolio and reference for the work completed during the certification.
